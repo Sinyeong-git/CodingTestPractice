@@ -1,0 +1,11 @@
+C:\Users\shin\Desktop\programmers\programmers\programmers\obj\Debug\netcoreapp3.1\programmers.csprojAssemblyReference.cache
+C:\Users\shin\Desktop\programmers\programmers\programmers\obj\Debug\netcoreapp3.1\programmers.AssemblyInfoInputs.cache
+C:\Users\shin\Desktop\programmers\programmers\programmers\obj\Debug\netcoreapp3.1\programmers.AssemblyInfo.cs
+C:\Users\shin\Desktop\programmers\programmers\programmers\bin\Debug\netcoreapp3.1\programmers.exe
+C:\Users\shin\Desktop\programmers\programmers\programmers\bin\Debug\netcoreapp3.1\programmers.deps.json
+C:\Users\shin\Desktop\programmers\programmers\programmers\bin\Debug\netcoreapp3.1\programmers.runtimeconfig.json
+C:\Users\shin\Desktop\programmers\programmers\programmers\bin\Debug\netcoreapp3.1\programmers.runtimeconfig.dev.json
+C:\Users\shin\Desktop\programmers\programmers\programmers\bin\Debug\netcoreapp3.1\programmers.dll
+C:\Users\shin\Desktop\programmers\programmers\programmers\bin\Debug\netcoreapp3.1\programmers.pdb
+C:\Users\shin\Desktop\programmers\programmers\programmers\obj\Debug\netcoreapp3.1\programmers.dll
+C:\Users\shin\Desktop\programmers\programmers\programmers\obj\Debug\netcoreapp3.1\programmers.pdb
