@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>94bad100-4899-4116-95b2-bf3da282a629</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2020kakao_문자열_압축.py</StartupFile>
+    <StartupFile>level1_2016년.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Mo2GoSa.py" />
-    <Compile Include="2020kakao_문자열_압축.py">
-      <SubType>Code</SubType>
-    </Compile>
+    <Compile Include="level1_2016년.py" />
+    <Compile Include="level1_체육복.py" />
+    <Compile Include="level1_k번째수.py" />
+    <Compile Include="level1_Mo2GoSa.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
