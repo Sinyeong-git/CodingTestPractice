@@ -18,7 +18,7 @@ def solution(bridge_length, weight, truck_weights):
         for j in range(len(brigeTruckTime)) :
             brigeTruckTime[j] += 1
         
-        #맨 앞 트럭차가 도착하면 없애주기
+        #맨 앞 트럭차가 도착하면  없애주기
         if brigeTruckTime[0] == bridge_length :
             brigeTruckTime.pop(0)
             brigeTruckWeight.pop(0)
